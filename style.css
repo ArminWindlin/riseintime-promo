@@ -1,0 +1,11 @@
+body {
+    background-image: url(./assets/background3.png);
+    margin-top: 20px;
+}
+
+#logo {
+    background-image: url(./assets/rise_in_time.png);
+    width: 613px;
+    height: 124px;
+    margin: 0 auto;
+}
