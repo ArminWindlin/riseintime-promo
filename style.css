@@ -1,5 +1,6 @@
 body {
-    background-image: url(./assets/background3.png);
+    background: url(./assets/background3.png) no-repeat;
+    background-size: cover;
     margin-top: 20px;
     font-family: Verdana, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
